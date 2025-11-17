@@ -1,0 +1,5 @@
+{
+  "name": "SafeTrace Privacy Monitor",
+  "description": "A professional privacy monitoring application that scans for data breaches, assesses your privacy score, and provides actionable steps to improve your digital security. Features an AI assistant and tracks your progress with badges.",
+  "requestFramePermissions": []
+}
